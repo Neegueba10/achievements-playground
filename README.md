@@ -1,2 +1,3 @@
 # achievements-playground
-Playground repo
+
+A small playground repo.
